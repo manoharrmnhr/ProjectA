@@ -1,0 +1,4 @@
+
+logs/ # complettly ignore the directory & content inside
+*.class # completely ignore files endng with .class in the repository
+*.txt # completely ignore files ending with .txt in the repositor
